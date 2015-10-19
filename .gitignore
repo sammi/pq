@@ -1,4 +1,6 @@
+/.idea
 .db
 *.test
 *~
 *.swp
+/pq.iml
